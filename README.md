@@ -1,2 +1,2 @@
-# SQL1
+# SQL
 SQL Code Examples
